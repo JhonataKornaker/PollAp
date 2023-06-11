@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "955923058615",
+    "project_id": "pollapp-e7f2d",
+    "storage_bucket": "pollapp-e7f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955923058615:android:ed7c104bd4e105dbac2232",
+        "android_client_info": {
+          "package_name": "com.example.pollap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955923058615-s8gt70sn8fh2bvpfrjaequbtl4vuanjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pollap",
+            "certificate_hash": "8d16480700f07ea7600688254886cc182b486ae5"
+          }
+        },
+        {
+          "client_id": "955923058615-b09a9qkla829nqh73q6pbvr3fib18e8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqGdChKTTn0qLrQx4AtEo3ZXw--ONUQ14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955923058615-b09a9qkla829nqh73q6pbvr3fib18e8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
